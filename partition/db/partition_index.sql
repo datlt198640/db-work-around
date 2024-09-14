@@ -1,0 +1,1 @@
+CREATE INDEX grades_parts_idx ON grades_parts(g);

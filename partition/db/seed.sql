@@ -1,0 +1,1 @@
+INSERT INTO grades_parts SELECT * FROM grades_org
